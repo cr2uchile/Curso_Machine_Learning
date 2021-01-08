@@ -10,6 +10,8 @@ Este repositorio contiene clases y material complementario relativo a Aprendizaj
 
 ## 2. Formalismos del Machine Learning
 
+[![Open In Youtube](https://raw.githubusercontent.com/cr2uchile/Curso_Machine_Learning/main/clase_2/bin/img_vid_clase_2.png)](https://drive.google.com/file/d/1LHsZnVAaEH0QVAG19H5YMgKWnxOib4a4/view)
+
 ## 3. Algoritmos y programación
 
 ### Ejemplo de clasificación de imágenes mediante una Red Neuronal Convolucional
