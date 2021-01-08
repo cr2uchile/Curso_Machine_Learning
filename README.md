@@ -6,8 +6,9 @@ Este repositorio contiene clases y material complementario relativo a Aprendizaj
 
 ## 1. Conceptos, ideas y aplicaciones en Machine Learning
 
-## 2. Formalismos del Machine Learning
+[![Open In Youtube](https://raw.githubusercontent.com/cr2uchile/Curso_Machine_Learning/main/clase_1/bin/img_vid_clase_1.png)](https://drive.google.com/file/d/10D6jVQtvEIj5THn-ihQAQ1qblw_4RDo-/view)
 
+## 2. Formalismos del Machine Learning
 
 ## 3. Algoritmos y programación
 
